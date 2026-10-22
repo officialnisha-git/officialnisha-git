@@ -22,8 +22,10 @@ I'm a BCA student passionate about learning web development and building project
 
 ### 📌 Projects
 
-My projects will be added here as I continue learning and building.
+- **Portfolio Website**: A responsive personal website built with HTML, CSS and JavaScript.
+- [Live site](https://officialnisha-git.github.io/Portfolio/)
 
+ 
 ### 🤝 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/nisha-bca
